@@ -1,7 +1,8 @@
 # loongson-training
 
 ## 教学课件下载 PPT
-link: <https://pan.baidu.com>
+link: <链接：https://pan.baidu.com/s/1FNKArMj9Z18Ru58Um21Hig 
+提取码：28b2 >
 
 ## 实训指导手册
 ### 1 Web 实训指导手册
